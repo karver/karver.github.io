@@ -1,0 +1,7 @@
+markdown: redcarpet
+pygments: true
+
+title_tag_text: Karver, migrations for the filesystem
+h1_tag_text: Karver
+
+exclude: ["Procfile", "Gruntfile.js", "README.md", "package.json", "CNAME", "node_modules"]
